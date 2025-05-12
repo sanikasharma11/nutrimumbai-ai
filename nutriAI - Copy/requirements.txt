@@ -1,0 +1,10 @@
+pandas
+numpy
+sentence-transformers
+faiss-cpu
+groq
+streamlit
+pymongo
+bcrypt
+python-dotenv
+streamlit-authenticator 
